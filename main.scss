@@ -1,3 +1,4 @@
+@use 'reset';
 
 $primary-color: #182C61;
 $secondary-color: #44bd32;
@@ -28,12 +29,7 @@ $secondary-color-hover: #4cd137;
 // Styles
 $base-font: 'Roboto', sans-serif;
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: $base-font;
-}
+
 
 body {
     background-color: #f5f6fa;
