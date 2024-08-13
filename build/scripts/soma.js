@@ -1,0 +1,1 @@
+function somar(...r){return r.reduce((r,e)=>r+e,0)}

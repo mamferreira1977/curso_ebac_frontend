@@ -1,0 +1,1 @@
+function mediaAritmetica(...e){return 0===e.length?0:e.reduce((e,t)=>e+t,0)/e.length}
